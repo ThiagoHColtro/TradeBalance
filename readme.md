@@ -18,7 +18,7 @@ O estudo considera, de forma especial, dois períodos: **2015-2017** (crise econ
 
 
 ## 📈 Metodologia
-- **Coleta de dados:** dados extraídos de fontes como [IPEA](https://www.ipea.gov.br/) e [MDIC/Comex Stat](https://comexstat.mdic.gov.br/).
+- **Coleta de dados:** dados extraídos de fontes como [OMC](https://www.worldbank.org/en/research/commodity-markets) e [MDIC/Comex Stat](https://comexstat.mdic.gov.br/).
 - **Limpeza e tratamento:** padronização de formatos, tratamento de valores ausentes e normalização de séries temporais.
 - **Análise descritiva:** cálculo de variações percentuais, visualização de tendências e correlações.
 - **Ferramentas:** Python, Pandas, Seaborn, Matplotlib.
@@ -47,3 +47,4 @@ Este projeto é de uso livre para fins acadêmicos e não possui garantias de ex
 ✍ **Autor:** Thiago Coltro  
 📅 **Ano:** 2025  
 🌐 [LinkedIn](https://www.linkedin.com/in/thiago-henrique-coltro/) | [GitHub](https://github.com/ThiagoHColtro)
+
