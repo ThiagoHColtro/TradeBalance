@@ -40,6 +40,7 @@ Este projeto é de uso livre para fins acadêmicos e não possui garantias de ex
 ---
 **Autor:** Thiago Henrique Coltro  
 **Ano:** 2025  
-🌐 [LinkedIn](https://www.linkedin.com/in/thiago-henrique-coltro/)
+[LinkedIn](https://www.linkedin.com/in/thiago-henrique-coltro/)
+
 
 
